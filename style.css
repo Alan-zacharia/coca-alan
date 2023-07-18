@@ -369,3 +369,14 @@ margin-top: 90px;
 .button-footer button:hover{
     background-color: #6e6e6e;
 }
+.button-footer i{
+  padding-right: 10px;
+}
+.social-media{
+    padding-left: 550px;
+    
+}
+.social-media a{
+    color: white;
+    padding-left: 10px;
+}
